@@ -1,0 +1,74 @@
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   .DS_Store
+	new file:   README.md
+	new file:   __init__.py
+	new file:   __pycache__/app.cpython-311.pyc
+	new file:   __pycache__/util.cpython-311.pyc
+	new file:   app.py
+	new file:   descriptors/.DS_Store
+	new file:   descriptors/avgpool_desc_a2.json
+	new file:   descriptors/cd_desc_a2.json
+	new file:   descriptors/fc_desc_a2.json
+	new file:   descriptors/hog_desc_a2.json
+	new file:   descriptors/label_label/.DS_Store
+	new file:   descriptors/label_label/label_label_avgpool/label_label_avgpool_km_10.json
+	new file:   descriptors/label_label/label_label_avgpool/label_label_avgpool_lda_10.json
+	new file:   descriptors/label_label/label_label_avgpool/label_label_avgpool_nnmf_10.json
+	new file:   descriptors/label_label/label_label_avgpool/label_label_avgpool_svd_10.json
+	new file:   descriptors/label_label/label_label_cm/label-label-cm.ipynb
+	new file:   descriptors/label_label/label_label_cm/label_label_lda_10.json
+	new file:   descriptors/label_label/label_label_cm/label_label_nnmf_10.json
+	new file:   descriptors/label_label/label_label_cm/label_label_svd_10.json
+	new file:   descriptors/label_label/label_label_fc/label_label_fc_km_10.json
+	new file:   descriptors/label_label/label_label_fc/label_label_fc_lda_10.json
+	new file:   descriptors/label_label/label_label_fc/label_label_fc_nnmf_10.json
+	new file:   descriptors/label_label/label_label_fc/label_label_fc_svd_10.json
+	new file:   descriptors/label_label/label_label_hog/label_label_hog_km_10.json
+	new file:   descriptors/label_label/label_label_hog/label_label_hog_lda_10.json
+	new file:   descriptors/label_label/label_label_hog/label_label_hog_nnmf_10.json
+	new file:   descriptors/label_label/label_label_hog/label_label_hog_svd_10.json
+	new file:   descriptors/label_label/label_label_layer3/label_label_layer3_km_10.json
+	new file:   descriptors/label_label/label_label_layer3/label_label_layer3_lda_10.json
+	new file:   descriptors/label_label/label_label_layer3/label_label_layer3_nnmf_10.json
+	new file:   descriptors/label_label/label_label_layer3/label_label_layer3_svd_10.json
+	new file:   descriptors/latent_descriptors/.DS_Store
+	new file:   descriptors/latent_descriptors/cpd/avgpool_cpd.json
+	new file:   descriptors/latent_descriptors/cpd/color_cpd.json
+	new file:   descriptors/latent_descriptors/cpd/fc_cpd.json
+	new file:   descriptors/latent_descriptors/cpd/hog_cpd.json
+	new file:   descriptors/latent_descriptors/cpd/layer3_cpd.json
+	new file:   descriptors/latent_descriptors/kmeans/avgpool_kmeans.json
+	new file:   descriptors/latent_descriptors/kmeans/color_kmeans.json
+	new file:   descriptors/latent_descriptors/kmeans/fc_kmeans.json
+	new file:   descriptors/latent_descriptors/kmeans/hog_kmeans.json
+	new file:   descriptors/latent_descriptors/kmeans/layer3_kmeans.json
+	new file:   descriptors/latent_descriptors/lda/avgpool_lda.json
+	new file:   descriptors/latent_descriptors/lda/color_lda.json
+	new file:   descriptors/latent_descriptors/lda/fc_lda.json
+	new file:   descriptors/latent_descriptors/lda/hog_lda.json
+	new file:   descriptors/latent_descriptors/lda/layer3_lda.json
+	new file:   descriptors/latent_descriptors/nmf/avgpool_nmf.json
+	new file:   descriptors/latent_descriptors/nmf/color_nmf.json
+	new file:   descriptors/latent_descriptors/nmf/fc_nmf.json
+	new file:   descriptors/latent_descriptors/nmf/hog_nmf.json
+	new file:   descriptors/latent_descriptors/nmf/layer3_nmf.json
+	new file:   descriptors/latent_descriptors/svd/avgpool_svd.json
+	new file:   descriptors/latent_descriptors/svd/color_svd.json
+	new file:   descriptors/latent_descriptors/svd/fc_svd.json
+	new file:   descriptors/latent_descriptors/svd/hog_svd.json
+	new file:   descriptors/latent_descriptors/svd/layer3_svd.json
+	new file:   descriptors/layer3_desc_a2.json
+	new file:   templates/base.html
+	new file:   templates/index.html
+	new file:   util.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	static/
+	status.txt
+
